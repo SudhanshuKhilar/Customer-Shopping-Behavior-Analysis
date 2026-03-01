@@ -1,4 +1,4 @@
-📊 Customer Shopping Behavior Analysis
+📊 Customer Behavior & Revenue Analysis
 
 📌 Project Overview
 This project presents a complete end-to-end Data Analytics workflow focused on analyzing retail customer shopping behavior. The objective is to transform raw transactional data into actionable business insights that improve customer engagement, revenue optimization, and strategic decision-making.
